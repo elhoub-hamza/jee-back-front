@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jee TP3.iml" filepath="$PROJECT_DIR$/.idea/Jee TP3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2ee-Microservice/billing-service/billing-service.iml" filepath="$PROJECT_DIR$/J2ee-Microservice/billing-service/billing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2ee-Microservice/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/J2ee-Microservice/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2ee-Microservice/eureka-discovery/eureka-discovery.iml" filepath="$PROJECT_DIR$/J2ee-Microservice/eureka-discovery/eureka-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2ee-Microservice/gateway/gateway.iml" filepath="$PROJECT_DIR$/J2ee-Microservice/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2ee-Microservice/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/J2ee-Microservice/inventory-service/inventory-service.iml" />
+    </modules>
+  </component>
+</project>
