@@ -19,3 +19,12 @@
 ![6](https://user-images.githubusercontent.com/12114256/207263064-7a457d2a-ee7c-41d8-9915-32588418b365.PNG)
 
 ![7](https://user-images.githubusercontent.com/12114256/207263066-9f48fb84-ab6e-41f6-819a-97736e3d3731.PNG)
+
+## Backend JEE
+
+![8](https://user-images.githubusercontent.com/12114256/207264252-42777f2c-7133-4bfc-bf9d-c8c89cbc4729.PNG)
+
+![9](https://user-images.githubusercontent.com/12114256/207264257-a8680950-d629-46a2-b326-176fd6476333.PNG)
+![10](https://user-images.githubusercontent.com/12114256/207264262-554f5fef-cc6f-4dd4-a82e-4c5c3bf32e52.PNG)
+
+![11](https://user-images.githubusercontent.com/12114256/207264265-3ccf7ec1-243e-4125-bef9-c0e1efbcaf9a.PNG)
